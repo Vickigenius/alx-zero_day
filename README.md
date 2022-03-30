@@ -1,2 +1,2 @@
 My first readme
-strange things
+Really strange things
